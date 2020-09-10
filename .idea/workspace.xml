@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -67,7 +68,8 @@
       <workItem from="1586184675454" duration="6439000" />
       <workItem from="1586282725154" duration="3324000" />
       <workItem from="1599593289379" duration="1517000" />
-      <workItem from="1599664056309" duration="1581000" />
+      <workItem from="1599664056309" duration="4043000" />
+      <workItem from="1599757486704" duration="2089000" />
     </task>
     <task id="LOCAL-00001" summary="github.com added..">
       <created>1585233715229</created>
@@ -117,22 +119,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1599593768373" />
-    <state width="726" height="208" key="GridCell.Tab.0.bottom" timestamp="1599601150427">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1599764765452">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599601150427" />
-    <state width="726" height="208" key="GridCell.Tab.0.center" timestamp="1599601150426">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599764765452" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1599764765450">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599601150426" />
-    <state width="726" height="208" key="GridCell.Tab.0.left" timestamp="1599601150426">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599764765450" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1599764765449">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599601150426" />
-    <state width="726" height="208" key="GridCell.Tab.0.right" timestamp="1599601150427">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599764765449" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1599764765451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599601150427" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599764765451" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/gitTest_HelloWorld_Project$Main.ic" NAME="Main Coverage Results" MODIFIED="1599594234323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
